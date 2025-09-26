@@ -43,3 +43,4 @@ Um blog moderno e responsivo sobre tecnologia, desenvolvido com HTML e CSS.
 - Links para categorias: Jogos, Celulares, Informática, Eletrônicos
 - Efeitos visuais ao passar o mouse
 
+![Image](https://github.com/user-attachments/assets/8ecd8514-1a42-4e58-b0f7-a94a697dff2a)
