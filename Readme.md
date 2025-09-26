@@ -5,7 +5,7 @@
  
 </div>
 
-# 🖥️ TecBlog - Seu Blog de Tecnologia
+# 💻TecBlog - Seu Blog de Tecnologia
 
 Um blog moderno e responsivo sobre tecnologia, desenvolvido com HTML e CSS.
 
@@ -44,3 +44,4 @@ Um blog moderno e responsivo sobre tecnologia, desenvolvido com HTML e CSS.
 - Efeitos visuais ao passar o mouse
 
 ![Image](https://github.com/user-attachments/assets/8ecd8514-1a42-4e58-b0f7-a94a697dff2a)
+
