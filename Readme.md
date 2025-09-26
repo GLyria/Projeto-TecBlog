@@ -1,4 +1,11 @@
-# TecBlog - Seu Blog de Tecnologia
+<div align="center">
+  
+  <img src="https://github.com/user-attachments/assets/420d8d22-b346-45dc-a540-1df03f103b6e" height="100" width="100"> 
+  <img src="https://github.com/user-attachments/assets/7f7aee3b-10d5-42ee-8c52-3df32472120a" height="100" width="100"> 
+ 
+</div>
+
+# 🖥️ TecBlog - Seu Blog de Tecnologia
 
 Um blog moderno e responsivo sobre tecnologia, desenvolvido com HTML e CSS.
 
@@ -35,3 +42,4 @@ Um blog moderno e responsivo sobre tecnologia, desenvolvido com HTML e CSS.
 - Menu fixo no topo
 - Links para categorias: Jogos, Celulares, Informática, Eletrônicos
 - Efeitos visuais ao passar o mouse
+
